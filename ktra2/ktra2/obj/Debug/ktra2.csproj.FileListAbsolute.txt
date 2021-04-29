@@ -1,0 +1,7 @@
+D:\code\ktra2\ktra2\bin\Debug\ktra2.exe.config
+D:\code\ktra2\ktra2\bin\Debug\ktra2.exe
+D:\code\ktra2\ktra2\bin\Debug\ktra2.pdb
+D:\code\ktra2\ktra2\obj\Debug\ktra2.csprojAssemblyReference.cache
+D:\code\ktra2\ktra2\obj\Debug\ktra2.csproj.CoreCompileInputs.cache
+D:\code\ktra2\ktra2\obj\Debug\ktra2.exe
+D:\code\ktra2\ktra2\obj\Debug\ktra2.pdb
